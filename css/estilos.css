@@ -39,3 +39,17 @@ body
 {
     font-size: 20px;
 }
+
+#post
+{
+    paddig: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+
+}
