@@ -1,2 +1,5 @@
-# hyperblog
-Un blog increible para el curso de Git y GitHub de platzi  
+ # hyperblog
+ <p>Un blog increible para el curso de Git y GitHub de platzi</p>  
+ 
+ <P>En este curso aprendi a usar mejor varios comandos de git, comandos de GitHub, como se trabaja en GitHub,etc.</p>
+     
