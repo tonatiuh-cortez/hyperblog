@@ -6,3 +6,4 @@
  #Agradecimientos 
  <p>Gracias al team platzi</p>
  <p>Gracias al profesor</p>
+ <p>Recomendado para todas las edades</p>
