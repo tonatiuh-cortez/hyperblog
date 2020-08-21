@@ -3,3 +3,5 @@
  
  <P>En este curso aprendi a usar mejor varios comandos de git, comandos de GitHub, como se trabaja en GitHub,etc.</p>
      
+ #Agradecimientos 
+ <p>Gracias al team platzi</p>
